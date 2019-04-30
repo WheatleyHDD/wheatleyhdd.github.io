@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: wheatleyhdd.github.io
+Token: 12307c067f1dbefbebf2b1dcacf4ab0f451f7ea4940a8bbb2992fc89a8ea7f22
