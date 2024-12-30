@@ -25,7 +25,7 @@ lang: "ru"
 google_analytics_id:
 
 # HTML Title
-title: "ThatMaidGuy Ссылки"
+title: "ThatMaidGuy - блоггер-разработчик"
 
 # Avatar image path
 avatar: "./images/logo.jpg"
@@ -75,6 +75,13 @@ links:
       url: "https://gamejolt.com/invite/ThatMaidGuy"
       alt: "GameJolt"
       title: "GameJolt"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-globe"
+      text: "Старый архив со старыми играми"
+      url: "https://wheatleyhdd.github.io/old-archive"
+      alt: "Старый архив"
+      title: "Старый архив"
       target: "_blank"
 
 
