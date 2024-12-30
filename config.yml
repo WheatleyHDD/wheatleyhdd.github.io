@@ -35,10 +35,10 @@ name: "ThatMaidGuy"
 
 # Tagline section text
 tagline: >-
-    Тот самый парень-горничная.
+    <p><b>Тот самый парень-горничная.</b></p>
 
-    Программист, backend-разработчик, геймдев, блогер, монтажер, сценарист и энтузиаст
-    Работаю над Ada's Maidness
+    <p>Программист, backend-разработчик, геймдев, блогер, монтажер, сценарист и энтузиаст</p>
+    <p>Работаю над <b>Ada's Maidness</b></p>
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
