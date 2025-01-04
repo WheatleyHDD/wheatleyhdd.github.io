@@ -131,6 +131,12 @@ a {
   font-size: 12px;
 }
 
+@media (max-width: 768px) {
+  .button-group {
+    flex-direction: column;
+  }
+}
+
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   body {
