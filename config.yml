@@ -62,6 +62,8 @@ links:
       alt: "DonationAlerts"
       title: "DonationAlerts"
       target: "_blank"
+
+games:
   - link:
       icon: "fa-brands fa-itch-io"
       text: "Игры на Itch.IO"

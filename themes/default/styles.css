@@ -93,6 +93,8 @@ a {
   display: flex;
   gap: 15px;
   margin-top: 25px;
+  flex-wrap: wrap; /* Позволяет элементам переноситься на новую строку */
+  justify-content: center; /* Выравнивание по центру даже при переносе */
 }
 
 .icon-button {
@@ -131,10 +133,17 @@ a {
   font-size: 12px;
 }
 
-@media (max-width: 768px) {
-  .button-group {
-    flex-direction: column;
-  }
+.fading-hr {
+  border: none;
+  height: 2px; /* Толщина линии */
+  background: linear-gradient(to right, rgba(1, 1, 1, 0), #ffffff, rgba(1, 1, 1, 0));
+  margin: 2rem 0; /* Отступы сверху и снизу */
+}
+
+.title-link {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 24px 0;
 }
 
 /* Dark mode */
