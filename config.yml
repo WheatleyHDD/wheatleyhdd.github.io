@@ -117,6 +117,12 @@ socials:
       alt: "X.com"
       target: "_blank"
   - social:
+      icon: "fa-brands fa-mastodon"
+      url: "https://mastodon.social/@ThatMaidGuy"
+      title: "Mastodon"
+      alt: "Mastodon"
+      target: "_blank"
+  - social:
       icon: "fa-brands fa-tiktok"
       url: "https://tiktok.com/@thatmaidguy"
       title: "TikTok"
