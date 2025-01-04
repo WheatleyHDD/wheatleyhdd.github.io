@@ -125,6 +125,12 @@ socials:
       alt: "Mastodon"
       target: "_blank"
   - social:
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/thatmaidguy.ru"
+      title: "Bluesky"
+      alt: "Bluesky"
+      target: "_blank"
+  - social:
       icon: "fa-brands fa-tiktok"
       url: "https://tiktok.com/@thatmaidguy"
       title: "TikTok"
