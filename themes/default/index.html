@@ -38,6 +38,7 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="msapplication-config" content="./images/favicons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
+  <meta name="fediverse:creator" content="@ThatMaidGuy@mastodon.social">
 
 
   <link rel="stylesheet" href="./styles.css" />
@@ -59,7 +60,7 @@
       <div class="button-group">
         {% for item in socials %}
           {% assign social = item.social %}
-          <a href="{{ social.url }}" title="{{ social.title }}" target="{{ social.target }}" class="icon-button" alt="{{ social.alt }}">
+          <a rel="me" href="{{ social.url }}" title="{{ social.title }}" target="{{ social.target }}" class="icon-button" alt="{{ social.alt }}">
             <i class="{{ social.icon }}"></i>
           </a>
         {% endfor %}
